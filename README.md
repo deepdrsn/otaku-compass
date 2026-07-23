@@ -30,12 +30,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## 📦 Deploying to Vercel
-
-1. Push this repo to GitHub.
-2. Import it into [Vercel](https://vercel.com/new).
-3. No environment variables are required to run. Click **Deploy**.
-
 That's it — the app is fully static/serverless-compatible and requires no database or backend server.
 
 ## 🔑 Optional: AI-powered natural language search
