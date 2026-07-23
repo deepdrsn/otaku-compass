@@ -92,6 +92,9 @@ Any anime without a manual entry still gets inferred tags automatically, so the 
 
 Jikan enforces a soft rate limit (~3 req/sec) on its free tier. The client in `lib/api/jikan.ts` throttles requests and React Query caches results for 10 minutes to stay well within limits. If you hit rate-limit errors during heavy local testing, wait a few seconds and retry.
 
+Site is live at https://otaku-compass-onfm.vercel.app/anime/9253
+
+
 ## License
 
 MIT — do whatever you want with it.
